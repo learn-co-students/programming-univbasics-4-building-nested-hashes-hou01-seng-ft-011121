@@ -2,8 +2,8 @@
 # you're suppose to "build up" to this.
 
 monopoly =  {
-  :railroads=>
-  {
+  :railroads=> 
+{
     :pieces=>4,
     :rent_in_dollars=>
     {
